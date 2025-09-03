@@ -1,4 +1,4 @@
-# Exercício 09 - Layout Responsivo
+# Exercício 09 - Fundamentos do CSS Responsivo
 
 Tema: EBAC Shoes
 
